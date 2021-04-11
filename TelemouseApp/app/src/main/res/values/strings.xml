@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Telemouse</string>
+    <string name="contentDescLeftButton">Left Button</string>
+    <string name="contentDescRightButton">Right Button</string>
+    <string name="successConnect">Successfully connected!</string>
+    <string name="failedConnect">Connection failed!</string>
+    <string name="fixSuggestion">Maybe the server isn\'t running? Or is the code wrong?</string>
+    <string name="pressOKtoProceed">Press OK to proceed.</string>
+    <string name="serverAccessCode">Server Access Code</string>
+    <string name="inputBox">Enter server provided code here.</string>
+    <string name="connectingTo">Connecting to </string>
+    <string name="enterValidCode">Please enter a valid code!</string>
+    <string name="quit">Quit</string>
+    <string name="tryAgain">Try Again</string>
+    <string name="OK">OK!</string>
+    <string name="connectionLost">Connection lost!</string>
+    <string name="connectionLostInfo">Maybe the server is down?</string>
+    <string name="welcome">Hello!</string>
+    <string name="help">Telemouse lets You control Your computer cursor as if Your phone was a trackpad. In order to make this happen, You will have to install the Telemouse-Server on Your machine. Follow the link for setup instructions (https://github.com/daniilgrbic/Telemouse) or click the Tutorial button below.</string>
+    <string name="instr">Tutorial</string>
+</resources>
